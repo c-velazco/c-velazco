@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Christopher Velazco — Senior Full Stack Engineer and UX UI Design Lead">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#09090a"/>
+      <stop offset="60%" stop-color="#121110"/>
+      <stop offset="100%" stop-color="#1f1e1b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c6923d"/>
+      <stop offset="100%" stop-color="#ae7a2c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="80%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c6923d" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#c6923d" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#c6923d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <!-- Top hairline -->
+  <line x1="80" y1="60" x2="180" y2="60" stroke="url(#accent)" stroke-width="2"/>
+  <text x="190" y="65" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8a887f" letter-spacing="3">PORTFOLIO · 2026</text>
+
+  <!-- Name -->
+  <text x="80" y="160" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="400" fill="#f7f7f6" letter-spacing="-2">
+    Christopher Velazco
+  </text>
+
+  <!-- Tagline -->
+  <text x="80" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#b4b2ab" letter-spacing="0.5">
+    Senior Full Stack Engineer  ·  UX/UI Design Lead  ·  Applied AI
+  </text>
+
+  <!-- Bottom row -->
+  <line x1="80" y1="252" x2="120" y2="252" stroke="url(#accent)" stroke-width="2"/>
+  <text x="135" y="257" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#8a887f" letter-spacing="1.5">
+    React · TypeScript · Node · .NET · AWS · RAG/LangChain
+  </text>
+
+  <!-- Right-side stamp -->
+  <text x="1200" y="65" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#6a6861" letter-spacing="2">5+ YRS · AWS CERTIFIED · 🇩🇴 DR</text>
+  <text x="1200" y="290" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#4f4e49" letter-spacing="2">REMOTE · EN / ES C2</text>
+</svg>
