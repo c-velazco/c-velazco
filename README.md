@@ -85,8 +85,8 @@ Next.js + TypeScript + PostgreSQL platform for project management workflows. Bui
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Christopher-37&show_icons=true&theme=dark&hide_border=true&bg_color=09090a&title_color=c6923d&icon_color=c6923d&text_color=b4b2ab" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-37&layout=compact&theme=dark&hide_border=true&bg_color=09090a&title_color=c6923d&text_color=b4b2ab" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=c-velazco&show_icons=true&theme=dark&hide_border=true&bg_color=09090a&title_color=c6923d&icon_color=c6923d&text_color=b4b2ab" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-velazco&layout=compact&theme=dark&hide_border=true&bg_color=09090a&title_color=c6923d&text_color=b4b2ab" alt="Top languages" height="160" />
 </p>
 
 ## Credentials
