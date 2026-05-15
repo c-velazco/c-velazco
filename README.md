@@ -82,13 +82,6 @@ Next.js + TypeScript + PostgreSQL platform for project management workflows. Bui
 - Edge-first architectures with Cloudflare Workers + D1
 - Sharper distinctions between design systems that scale and design systems that just look organized
 
-## Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=c-velazco&show_icons=true&theme=dark&hide_border=true&bg_color=09090a&title_color=c6923d&icon_color=c6923d&text_color=b4b2ab&cache_seconds=0" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-velazco&layout=compact&theme=dark&hide_border=true&bg_color=09090a&title_color=c6923d&text_color=b4b2ab&cache_seconds=0" alt="Top languages" height="160" />
-</p>
-
 ## Credentials
 
 - **AWS Certified Cloud Practitioner** — [verify on Credly](https://www.credly.com/badges/404f73a3-91b6-4847-803c-752dbae6a33f/linked_in_profile)
